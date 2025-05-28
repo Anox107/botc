@@ -1,4 +1,5 @@
-const login = require("fca-priyansh");
+const login = require("fca-unofficial");
+const chalk = require("chalk");
 const fs = require("fs");
 const logger = require("./modules/logger");
 const commands = require("./modules/commands");
